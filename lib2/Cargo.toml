@@ -5,3 +5,5 @@ edition = "2021"
 
 [dependencies]
 lib1 = {path = "../lib1"}
+
+tokio = {workspace = true}
